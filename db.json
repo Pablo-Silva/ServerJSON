@@ -1,10 +1,9 @@
 {
-  "carro":{
+  "filme":{
     "id":1,
-    "marca":"Peugeot",
-    "modelo":307,
-    "fabricacao":2007,
-    "automatico":true,
-    "opcionais":["ABS","AirBag","Ar Condicionado"]
+    "titulo":"Pantera negra",
+    "ano":2018,
+    "venceuOscar":true,
+    "bilheteriaMundial":1.344
   }
 }
